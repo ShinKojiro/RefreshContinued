@@ -21,4 +21,6 @@ int main()
 	double answer;
 	answer = static_cast<double>(9) / 2;
 	cout << answer;
+
+	couit << "1";
 }
